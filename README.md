@@ -1,6 +1,8 @@
 
 # SumanJS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sumanjs/sumanjs.svg)](https://greenkeeper.io/)
+
 This is not the project your looking for.
 This is simply a dummy placeholder repo which can direct people to the correct one.
 
