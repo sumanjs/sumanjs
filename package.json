@@ -1,0 +1,26 @@
+{
+  "name": "sumanjs",
+  "version": "0.0.1001",
+  "description": "Dummy repo preventing any confusion in SumanJS ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "suman"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumanjs/sumanjs.git"
+  },
+  "keywords": [
+    "sumanjs",
+    "suman",
+    "testing",
+    "tdd",
+    "bdd"
+  ],
+  "author": "Olegzandr VD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumanjs/sumanjs/issues"
+  },
+  "homepage": "https://github.com/sumanjs/sumanjs#readme"
+}
